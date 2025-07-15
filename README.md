@@ -1,16 +1,23 @@
-## Hi there 👋
+
 
 <!--
-**sahalav/sahalav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sahalav/sahal# 👋 Hi there! I'm Sahala
 
-Here are some ideas to get you started:
+I'm a **Python enthusiast and aspiring full stack developer** with a passion for learning and building web projects.  
+Currently exploring **Django**, **HTML/CSS**, **Bootstrap**, and version control with **Git & GitHub**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Skills I'm Learning:
+- Python & Django
+- HTML, CSS, Bootstrap
+- Git & GitHub
+- C, C++
+
+---
+
+### 🌱 I’m currently working on:
+- Building full-stack web apps with Django
+- Strengthening my frontend skills
+
+
